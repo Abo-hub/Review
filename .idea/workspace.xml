@@ -5,7 +5,43 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c359ab-0639-4f4e-b53d-70ed1636afca" name="Default Changelist" comment="" />
+    <list default="true" id="97c359ab-0639-4f4e-b53d-70ed1636afca" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/math/FastPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/math/Latex.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/math/fastpower.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findFirstCommonNode/FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findFirstCommonNode/findFirstCommonNode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findKthToTail/FindKthToTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findKthToTail/findKthToTail.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/isPopOrder/IsPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/isPopOrder/isPopOrder.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/mergelinedlist/MergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/mergelinedlist/mergelinkedlist.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/power/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/power/Power.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/printmatrix/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/printmatrix/printMatrix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/verifySquenceOfBST/VerifySquenceOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/niobuffer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/nonbuf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/zhibuf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/com/sun/nio/TestBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/com/sun/nio/TestBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/com/sun/nio/TestNonBlocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/com/sun/nio/md/nio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/com/sun/nio/testChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pm/src/pm01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javase/hello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/hello2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/javase/hello2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/src/com/sun/io/md/io.md" beforeDir="false" afterPath="$PROJECT_DIR$/javase/src/com/sun/io/md/io.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/sun/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/sun/sort/InsertionSort.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,33 +49,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/FileReaderWriterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#testFileReader#0;class#FileReaderWriterTest#0" />
-                <element signature="method#testFileReader1#0;class#FileReaderWriterTest#0" />
-                <element signature="method#testFileWriter#0;class#FileReaderWriterTest#0" />
-                <element signature="method#testFileReaderFileWriter#0;class#FileReaderWriterTest#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/md/io.md">
+        <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/md/nio.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="282">
-                <caret line="309" selection-start-line="309" selection-end-line="309" />
+              <first_editor relative-caret-position="243">
+                <caret line="5" column="143" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -49,40 +83,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/FileInputOutputStreamTest.java">
+        <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/TestNonBlocking.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="2609">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
               <folding>
-                <element signature="method#testFileInputStream#0;class#FileInputOutputStreamTest#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/FileInputStream.java">
+        <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/testChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/InputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1053">
-              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/BufferedInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+            <state relative-caret-position="189">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="95" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#testScatter#0;class#testChannel#0" />
+                <element signature="method#test2#0;class#testChannel#0" />
+                <element signature="method#test3#0;class#testChannel#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,6 +118,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-XX:MaxDirectMemorySize</find>
+      <find>unsafe.allocateMemory(size)</find>
+      <find>length</find>
+      <find>ops</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -105,6 +138,30 @@
         <option value="$PROJECT_DIR$/algorithms/src/com/sun/sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/algorithms/src/com/sun/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/javase/src/com/sun/io/md/io.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/printmatrix/PrintMatrix.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/printmatrix/printMatrix.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/mergelinedlist/MergeLinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/mergelinedlist/mergelinkedlist.md" />
+        <option value="$PROJECT_DIR$/javase/src/com/sun/nio/TestBuffer.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findFirstCommonNode/FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findFirstCommonNode/findFirstCommonNode.md" />
+        <option value="$PROJECT_DIR$/javase/hello.txt" />
+        <option value="$PROJECT_DIR$/javase/src/com/sun/nio/TestBlock.java" />
+        <option value="$PROJECT_DIR$/javase/src/com/sun/nio/testChannel.java" />
+        <option value="$PROJECT_DIR$/javase/src/com/sun/nio/TestNonBlocking.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/power/Power.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/math/FastPower.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/power/Power.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/math/Latex.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/math/fastpower.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/math/FastPower.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/isPopOrder/IsPopOrder.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/isPopOrder/isPopOrder.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findKthToTail/FindKthToTail.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findKthToTail/findKthToTail.md" />
+        <option value="$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/verifySquenceOfBST/VerifySquenceOfBST.java" />
+        <option value="$PROJECT_DIR$/javase/src/com/sun/nio/md/nio.md" />
       </list>
     </option>
   </component>
@@ -113,12 +170,16 @@
     <option name="width" value="977" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,11 +190,6 @@
             <path>
               <item name="Review" type="b2602c69:ProjectViewProjectNode" />
               <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
               <item name="javase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -164,54 +220,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Review" type="b2602c69:ProjectViewProjectNode" />
               <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="javase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="md" type="462c0819:PsiDirectoryNode" />
+              <item name="pm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Review" type="b2602c69:ProjectViewProjectNode" />
               <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="pm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="md" type="462c0819:PsiDirectoryNode" />
-              <item name="io.md" type="ab9368bb:PsiFileNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="javase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="FileInputOutputStreamTest" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="javase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="FileReaderWriterTest" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,9 +244,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace1/csdn/CSDN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -230,10 +256,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Review\imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Review\algorithms\src\com\sun" />
       <recent name="E:\Review\imgs" />
     </key>
   </component>
@@ -249,82 +283,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InsertionSort.testInsertSort">
-    <configuration name="BubbleSort.testBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FastPower">
+    <configuration name="FastPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.math.FastPower" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sun.sort.*" />
+          <option name="PATTERN" value="com.sun.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sun.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.sun.sort.BubbleSort" />
-      <option name="METHOD_NAME" value="testBubbleSort" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderWriterTest.testFileReader1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNonBlocking.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sun.io.*" />
+          <option name="PATTERN" value="com.sun.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sun.io" />
-      <option name="MAIN_CLASS_NAME" value="com.sun.io.FileReaderWriterTest" />
-      <option name="METHOD_NAME" value="testFileReader1" />
+      <option name="PACKAGE_NAME" value="com.sun.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.nio.TestNonBlocking" />
+      <option name="METHOD_NAME" value="client" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderWriterTest.testFileReaderFileWriter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNonBlocking.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sun.io.*" />
+          <option name="PATTERN" value="com.sun.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sun.io" />
-      <option name="MAIN_CLASS_NAME" value="com.sun.io.FileReaderWriterTest" />
-      <option name="METHOD_NAME" value="testFileReaderFileWriter" />
+      <option name="PACKAGE_NAME" value="com.sun.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.nio.TestNonBlocking" />
+      <option name="METHOD_NAME" value="server" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderWriterTest.testFileWriter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testChannel.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sun.io.*" />
+          <option name="PATTERN" value="com.sun.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sun.io" />
-      <option name="MAIN_CLASS_NAME" value="com.sun.io.FileReaderWriterTest" />
-      <option name="METHOD_NAME" value="testFileWriter" />
+      <option name="PACKAGE_NAME" value="com.sun.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.nio.testChannel" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort.testInsertSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
+    <configuration name="testChannel.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sun.sort.*" />
+          <option name="PATTERN" value="com.sun.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sun.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.sun.sort.InsertionSort" />
-      <option name="METHOD_NAME" value="testInsertSort" />
+      <option name="PACKAGE_NAME" value="com.sun.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.nio.testChannel" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -332,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InsertionSort.testInsertSort" />
-        <item itemvalue="JUnit.BubbleSort.testBubbleSort" />
-        <item itemvalue="JUnit.FileReaderWriterTest.testFileReaderFileWriter" />
-        <item itemvalue="JUnit.FileReaderWriterTest.testFileWriter" />
-        <item itemvalue="JUnit.FileReaderWriterTest.testFileReader1" />
+        <item itemvalue="Application.FastPower" />
+        <item itemvalue="JUnit.TestNonBlocking.client" />
+        <item itemvalue="JUnit.TestNonBlocking.server" />
+        <item itemvalue="JUnit.testChannel.test3" />
+        <item itemvalue="JUnit.testChannel.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -353,67 +384,86 @@
       <workItem from="1563939551012" duration="13303000" />
       <workItem from="1563961477452" duration="1351000" />
       <workItem from="1563970213658" duration="5266000" />
-      <workItem from="1564018115233" duration="12203000" />
+      <workItem from="1564018115233" duration="12710000" />
+      <workItem from="1564042641107" duration="1136000" />
+      <workItem from="1564053484434" duration="8940000" />
+      <workItem from="1564103127966" duration="2723000" />
+      <workItem from="1564110716367" duration="1403000" />
+      <workItem from="1564112129644" duration="1602000" />
+      <workItem from="1564122569898" duration="8739000" />
+      <workItem from="1564141375565" duration="4305000" />
+      <workItem from="1564190570386" duration="2957000" />
+      <workItem from="1564214876442" duration="11048000" />
+      <workItem from="1564362223483" duration="6871000" />
+      <workItem from="1564476301038" duration="3400000" />
+      <workItem from="1564488507427" duration="5790000" />
+      <workItem from="1564530583725" duration="10859000" />
+      <workItem from="1564561024342" duration="10610000" />
+      <workItem from="1564623833745" duration="4001000" />
+      <workItem from="1564659093039" duration="2299000" />
+      <workItem from="1564708776723" duration="794000" />
+      <workItem from="1564720839783" duration="57000" />
+      <workItem from="1564729922503" duration="3865000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileReaderWriterTest_testFileReader - 2019.07.24 at 11h 42m 03s.xml">
-      <configuration name="FileReaderWriterTest.testFileReader" configurationId="JUnit" />
+    <history-entry file="testChannel_test3 - 2019.07.29 at 10h 56m 40s.xml">
+      <configuration name="testChannel.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReaderWriterTest_testFileReader - 2019.07.24 at 11h 50m 27s.xml">
-      <configuration name="FileReaderWriterTest.testFileReader" configurationId="JUnit" />
+    <history-entry file="testChannel_test3 - 2019.07.29 at 10h 57m 34s.xml">
+      <configuration name="testChannel.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReaderWriterTest_testFileReader - 2019.07.24 at 11h 50m 58s.xml">
-      <configuration name="FileReaderWriterTest.testFileReader" configurationId="JUnit" />
+    <history-entry file="testChannel_test3 - 2019.07.29 at 10h 57m 50s.xml">
+      <configuration name="testChannel.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReaderWriterTest_testFileReader1 - 2019.07.24 at 13h 15m 09s.xml">
-      <configuration name="FileReaderWriterTest.testFileReader1" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_client - 2019.07.30 at 17h 25m 52s.xml">
+      <configuration name="TestNonBlocking.client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReaderWriterTest_testFileReader1 - 2019.07.24 at 13h 15m 18s.xml">
-      <configuration name="FileReaderWriterTest.testFileReader1" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_server - 2019.07.30 at 17h 25m 52s.xml">
+      <configuration name="TestNonBlocking.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReaderWriterTest_testFileWriter - 2019.07.24 at 14h 41m 17s.xml">
-      <configuration name="FileReaderWriterTest.testFileWriter" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_server - 2019.07.30 at 17h 26m 30s.xml">
+      <configuration name="TestNonBlocking.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReaderWriterTest_testFileReaderFileWriter - 2019.07.24 at 14h 59m 45s.xml">
-      <configuration name="FileReaderWriterTest.testFileReaderFileWriter" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_client - 2019.07.30 at 17h 26m 30s.xml">
+      <configuration name="TestNonBlocking.client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSort_testBubbleSort - 2019.07.24 at 20h 21m 29s.xml">
-      <configuration name="BubbleSort.testBubbleSort" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_client - 2019.07.30 at 17h 27m 27s.xml">
+      <configuration name="TestNonBlocking.client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSort_testBubbleSort - 2019.07.24 at 20h 23m 00s.xml">
-      <configuration name="BubbleSort.testBubbleSort" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_client - 2019.07.30 at 18h 53m 59s.xml">
+      <configuration name="TestNonBlocking.client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InsertionSort_testInsertSort - 2019.07.24 at 20h 24m 50s.xml">
-      <configuration name="InsertionSort.testInsertSort" configurationId="JUnit" />
+    <history-entry file="TestNonBlocking_server - 2019.07.30 at 18h 53m 59s.xml">
+      <configuration name="TestNonBlocking.server" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32123000" />
+    <option name="totallyTimeSpent" value="124029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36241612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3480826" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32890856" />
-      <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32890856" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.33236152" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32798833" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.35714287" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.33236152" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.26239067" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -425,21 +475,468 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javase/src/com/sun/nio/testChannel.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/File.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/algorithms.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/printmatrix/printMatrix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/printmatrix/PrintMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="270" column="23" selection-start-line="270" selection-start-column="23" selection-end-line="270" selection-end-column="23" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/rt">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>rt</OriginalElement>
+          <nodes>
+            <node x="" y="">rt</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="24.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.nio.ByteBuffer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.nio.ByteBuffer</OriginalElement>
+          <nodes>
+            <node x="" y="">java.nio.Buffer</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">java.nio.ByteBuffer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="126.0" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.nio.Buffer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.nio.Buffer</OriginalElement>
+          <nodes>
+            <node x="496.0" y="89.0">java.nio.IntBuffer</node>
+            <node x="641.0" y="89.0">java.nio.FloatBuffer</node>
+            <node x="974.0" y="89.0">java.nio.CharBuffer</node>
+            <node x="803.0" y="89.0">java.nio.DoubleBuffer</node>
+            <node x="509.5" y="0.0">java.nio.Buffer</node>
+            <node x="180.0" y="89.0">java.nio.ShortBuffer</node>
+            <node x="342.0" y="89.0">java.nio.LongBuffer</node>
+            <node x="26.0" y="89.0">java.nio.ByteBuffer</node>
+            <node x="0.0" y="168.0">java.nio.MappedByteBuffer</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.nio.DoubleBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="878.5" y="59.0" />
+              <point x="586.5" y="59.0" />
+              <point x="28.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.IntBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.LongBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="409.0" y="69.0" />
+              <point x="544.5" y="69.0" />
+              <point x="-14.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.MappedByteBuffer" target="java.nio.ByteBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ShortBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="251.0" y="59.0" />
+              <point x="530.5" y="59.0" />
+              <point x="-28.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="93.0" y="49.0" />
+              <point x="516.5" y="49.0" />
+              <point x="-42.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.FloatBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="712.0" y="69.0" />
+              <point x="572.5" y="69.0" />
+              <point x="14.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.CharBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="1041.0" y="49.0" />
+              <point x="600.5" y="49.0" />
+              <point x="42.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="118.0" y="89.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>packageLocal</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/nio/IntBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="331" column="28" selection-start-line="331" selection-start-column="28" selection-end-line="331" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1497">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/jre/lib/rt.jar!/sun/misc/VM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#3031#3032#0" expanded="true" />
+            <element signature="e#3075#3076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/nio/Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16713">
+          <caret line="713" column="28" selection-start-line="713" selection-start-column="28" selection-end-line="713" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/mergelinedlist/MergeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4644">
+          <caret line="227" column="31" selection-start-line="227" selection-start-column="31" selection-end-line="227" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/nio/DirectByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="334" column="25" lean-forward="true" selection-start-line="334" selection-start-column="25" selection-end-line="334" selection-end-column="25" />
+          <folding>
+            <element signature="e#9208#9209#0" expanded="true" />
+            <element signature="e#9261#9262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/nio/HeapByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="54" selection-start-line="54" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findFirstCommonNode/FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findFirstCommonNode/findFirstCommonNode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="891">
+            <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            <folding>
+              <element signature="e#110#111#0" expanded="true" />
+              <element signature="e#148#149#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase/hello.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javase/hello2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase/hello.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/mergelinedlist/mergelinkedlist.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/sort/md/sort.md">
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/TestBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/aa.md" />
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/FastPower.md" />
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/math/Latex.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/math/fastpower.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="426">
+            <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/power/Power.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/power/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/nonbuf.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/zhibuf.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/math/FastPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="143" column="43" lean-forward="true" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/security/cert/X509CRLSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="121" column="41" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="321" column="46" lean-forward="true" selection-start-line="321" selection-start-column="46" selection-end-line="321" selection-end-column="46" />
+          <folding>
+            <element signature="e#11798#11799#0" expanded="true" />
+            <element signature="e#11833#11834#0" expanded="true" />
+            <element signature="e#12107#12108#0" expanded="true" />
+            <element signature="e#12147#12148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="true" />
+            <element signature="e#2872#2873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <element signature="e#8938#8939#0" expanded="true" />
+            <element signature="e#8965#8966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/isPopOrder/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/isPopOrder/isPopOrder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="675">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findKthToTail/findKthToTail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="117" selection-start-line="6" selection-start-column="117" selection-end-line="6" selection-end-column="117" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/FileInputOutputStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testFileInputStream#0;class#FileInputOutputStreamTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/md/io.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="3780">
+            <caret line="140" column="62" selection-start-line="140" selection-start-column="62" selection-end-line="140" selection-end-column="62" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/niobuffer.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/findKthToTail/FindKthToTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="30" column="32" selection-start-line="21" selection-start-column="8" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/nio.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pm/src/pm01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -449,77 +946,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/TestBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/sort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/FileReaderWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="378">
+          <caret line="97" column="41" lean-forward="true" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#testFileReader#0;class#FileReaderWriterTest#0" />
-            <element signature="method#testFileReader1#0;class#FileReaderWriterTest#0" />
-            <element signature="method#testFileWriter#0;class#FileReaderWriterTest#0" />
-            <element signature="method#testFileReaderFileWriter#0;class#FileReaderWriterTest#0" />
+            <element signature="method#test1#0;class#TestBuffer#0" />
+            <element signature="method#testMark#0;class#TestBuffer#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/FileInputOutputStreamTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/src/com/sun/nowcoder/verifySquenceOfBST/VerifySquenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="559">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/testChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="95" selection-end-column="5" />
           <folding>
-            <element signature="method#testFileInputStream#0;class#FileInputOutputStreamTest#0" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#testScatter#0;class#testChannel#0" />
+            <element signature="method#test2#0;class#testChannel#0" />
+            <element signature="method#test3#0;class#testChannel#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/TestNonBlocking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        <state relative-caret-position="2609">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../JAVA/JAVA-JDK/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1053">
-          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/io/md/io.md">
+    <entry file="file://$PROJECT_DIR$/javase/src/com/sun/nio/md/nio.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="282">
-            <caret line="309" selection-start-line="309" selection-end-line="309" />
+          <first_editor relative-caret-position="243">
+            <caret line="5" column="143" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -530,7 +1003,87 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="MarkdownNavigator.LinkMap.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
