@@ -1,4 +1,4 @@
-package com.sun.leetCode.reverse.reverse;
+package com.sun.leetCode.reverse;
 
 /**
  * @program: Review

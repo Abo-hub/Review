@@ -10,13 +10,13 @@ import org.junit.Test;
 
 public class InsertionSort {
 
-    public void insertionSort(int[] arr) {
+    public static void insertionSort(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
         }
         for (int i = 1; i < arr.length; i++) {
-            for (int j = i - 1; j >= 0 && arr[j] > arr[j + 1]; j--) {
-                swap(arr, j, j + 1);
+            for (int j = i; j > 0 && arr[j] < arr[j - 1]; j--) {
+                swap(arr, j, j - 1);
             }
             //    System.out.println("第"+i+"次：");
             //     for (int k = 0; k < arr.length; k++) {
@@ -27,7 +27,7 @@ public class InsertionSort {
         }
     }
 
-    public void swap(int[] arr, int i, int j) {
+    public static void swap(int[] arr, int i, int j) {
 //            int tmp = arr[i];
 //            arr[i] = arr[j];
 //            arr[j] = tmp;
@@ -39,11 +39,11 @@ public class InsertionSort {
 
     @Test
     public void testInsertSort() {
-        int[] arr = {6, 4, 1, 5, 2, 3};
+        int []arr = {6, 4, 1, 5, 2, 3};
         insertionSort(arr);
         System.out.println("最终排序：");
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + ",");
+        for (int value : arr) {
+            System.out.print(value + ",");
         }
     }
 }
